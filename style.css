@@ -1,0 +1,46 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: montserrat , sans-serif;
+  background: url(https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=80&fit=clip&auto=format) no-repeat center center fixed;
+  -webkit-background-size: cover; 
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+   
+h1 {
+	font-size: 3rem;
+	color:#D4C16A ;
+}  
+hr {
+    justify-content: center;
+	border-color:#FF4900 ;
+	border-width: 5px;
+	max-width: 65px;
+}
+
+.buffer {
+	height: 50px;
+}
+.btn {
+	font font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #FF7400;
+	border-color:#FF7400 ;
+}
+.btn-primary:hover {
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+
+}
